@@ -1,10 +1,11 @@
 <img src="cover.png" width="70%">
 
+# Deep Learning DNN Preprocessing Analysis for CIFAR-10
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
 ![License](https://img.shields.io/badge/License-Apache%202.0-green)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-# Deep Learning DNN Preprocessing Analysis for CIFAR-10
 
 ## 1. Overview
 
