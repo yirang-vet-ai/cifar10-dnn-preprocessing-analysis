@@ -1,0 +1,16 @@
+name: dl_env
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchvision
+  - pytorch-cuda=12.8
+  - numpy
+  - matplotlib
+  - pip
+  - pip:
+      - opencv-python

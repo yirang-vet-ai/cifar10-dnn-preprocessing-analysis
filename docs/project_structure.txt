@@ -1,0 +1,23 @@
+cifar10-dnn-preprocess-comparison repository packaging document
+
+Main script:
+- cifar10_preprocess_compare_dnn.py
+
+Purpose:
+- Compare multiple preprocessing strategies for CIFAR-10 style image classification using DNN
+
+Included repository files:
+- README.md
+- LICENSE
+- NOTICE
+- .gitignore
+- requirements.txt
+- environment.yml
+- run.bat
+- CHANGELOG.md
+
+Recommended exclusions from GitHub:
+- generated dataset folders
+- trained weight files
+- large result images unless selectively uploaded
+- virtual environment folders
