@@ -1,4 +1,5 @@
 <img src="cover.png" width="100%">
+
 # Deep Learning DNN Preprocessing Analysis for CIFAR-10
 
 ## 1. Overview
@@ -132,6 +133,8 @@ Preprocessing is a critical factor influencing model performance, especially in 
 Apache License 2.0
 
 ---
+All images and visual materials in this repository are protected by copyright.
+Unauthorized use, reproduction, or distribution is prohibited.
 
 ## 13. Author
 
