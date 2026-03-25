@@ -1,4 +1,4 @@
-<img src="cover.png" width="50%">
+<img src="cover.png" width="70%">
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
