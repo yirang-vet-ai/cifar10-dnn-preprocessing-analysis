@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/cover.png" width="100%">
-</p>
+<img src="cover.png" width="100%">
 # Deep Learning DNN Preprocessing Analysis for CIFAR-10
 
 ## 1. Overview
