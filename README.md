@@ -7,6 +7,9 @@
 ![License](https://img.shields.io/badge/License-Apache%202.0-green)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
+Author: YIRANG JUNG  
+License: Apache License 2.0
+
 ## 1. Overview
 
 This project analyzes how different data preprocessing strategies affect the performance of a Deep Neural Network (DNN) for image classification.
